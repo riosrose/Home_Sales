@@ -1,10 +1,10 @@
-# Home_Sales-challenge
+# Home_Sales Challenge
 UCB Data Analytics-Challenge 22
 
-CHALLENGE PURPOSE: In this challenge, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+CHALLENGE PURPOSE: In this challenge, us of SparkSQL will be demonstrated as well as use of Spark to : create views, ppartition data, cache, uncache a temporaray table and verifythe table has been uncached. 
 
 # References
-This challenges dataset comprises xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+This challenges dataset comprised of : home_sales_revised.csv
 
 # Technologies Used: xxxxxxxxxxxxxxxxxxxxx
 
